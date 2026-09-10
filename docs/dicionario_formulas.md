@@ -2,7 +2,7 @@
 
 Arquivo reservado para o dicionário matemático do projeto.
 
-A versão final deve documentar, entre outros:
+A versão final documenta, entre outros:
 - Poisson e offset de exposição;
 - GLM Gamma com ligação log;
 - prêmio puro;
