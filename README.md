@@ -1,4 +1,4 @@
-# Pricing & Economic Capital with Python and SQL
+# Pricing & Capital Econômico com Python e SQL
 
 Projeto atuarial didático de ponta a ponta para conectar **pricing**, comportamento do cliente,
 simulação de perdas e **capital econômico** em uma carteira sintética de seguro Automóvel.
@@ -109,7 +109,3 @@ A pasta `docs/` contém a estrutura para:
 - dicionário de fórmulas;
 - dicionário de dados;
 - premissas e limitações.
-
-## Licença
-
-Nenhuma licença foi escolhida automaticamente. Defina a licença desejada antes da publicação pública.
