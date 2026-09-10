@@ -109,7 +109,3 @@ A pasta `docs/` contém a estrutura para:
 - dicionário de fórmulas;
 - dicionário de dados;
 - premissas e limitações.
-
-## Licença
-
-Nenhuma licença foi escolhida automaticamente. Defina a licença desejada antes da publicação pública.
