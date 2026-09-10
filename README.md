@@ -16,7 +16,7 @@ simulação de perdas e **capital econômico** em uma carteira sintética de seg
 ```text
 SQL / Dados
     ↓
-EDA
+Análise Exploratória dos Dados
     ↓
 GLM Frequência + GLM Severidade
     ↓
