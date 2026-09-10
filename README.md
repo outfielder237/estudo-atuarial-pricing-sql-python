@@ -1,4 +1,4 @@
-# Pricing & Economic Capital with Python and SQL
+# Pricing & Economic Capital com Python e SQL
 
 Projeto atuarial didático de ponta a ponta para conectar **pricing**, comportamento do cliente,
 simulação de perdas e **capital econômico** em uma carteira sintética de seguro Automóvel.
